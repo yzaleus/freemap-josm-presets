@@ -63,8 +63,7 @@
         <key key="parcel_mail_in" value="yes" match="none"/>
         <key key="parcel_pickup" value="yes" match="none"/>
       </item>
-      <item icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAL0UExURdESKdIRKdkPKNcPKNMRKdYQKNERKdUPKNQQKdASKasaLrMZLXktNKUaL9gQKOMMJ98NJ9UQKNMQKc8RKe0MJ
-            name="DPD Pickup Box" type="node,closedway">
+      <item icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAL0UExURdESKdIRKdkPKNcPKNMRKdYQKNERKdUPKNQQKdASKasaLrMZLXktNKUaL9gQKOMMJ98NJ9UQKNMQKc8RKe0MJ" name="DPD Pickup Box" type="node,closedway">
         <label text="DPD Pickup Box"/>
         <space/>
         <key key="amenity" value="parcel_locker"/>

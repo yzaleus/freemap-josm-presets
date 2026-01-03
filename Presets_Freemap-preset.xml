@@ -78,7 +78,7 @@
         <key key="website" value="https://www.dpdgroup.com/" match="keyvalue"/>
         <link href="https://www.dpdgroup.com/sk/mydpd/parcel-shops" sk.text="Mapa DPD Boxov" text="Map"/>
       </item>
-      <item icon="https://gls-group.com/SK/media/icons/2021_1/2021_Icon-parcel.svg" name="GLS Balíkomat" type="node,closedway">
+      <item icon="gls-logo.svg" name="GLS Balíkomat" type="node,closedway">
         <label text="GLS Balíkomat"/>
         <space/>
         <key key="amenity" value="parcel_locker"/>
